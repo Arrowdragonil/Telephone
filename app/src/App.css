@@ -1,0 +1,113 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+
+
+/* .lista{
+  list-style: none;
+}
+
+.listTelephones{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(21px, 1fr));
+  grid-auto-rows: minmax(90px, auto);
+   grid-row: 1; 
+   grid-column: 4; 
+  margin-top: 30%;
+} */
+
+/* .telefonos{
+  color: white;
+}
+
+.nav{
+  background: purple;
+  margin-left: -2.7%;
+  margin-top: -2.3%;
+  height: -20px;
+
+  
+}
+
+.nav ul{
+  color: white;
+  font-size: 35px;
+  line-height: 80px; 
+  padding: 0 100px;
+  font-weight: bold;
+}
+
+.telefonos{
+  margin-left: -0.5%;
+}
+
+.logoTelefono{
+  max-width: 300px;
+  min-width: 300px;
+  margin-top: 5%;
+  margin-left: 3%;
+}
+.description{
+  color: white;
+  margin-left: 2%;
+}
+
+.footer{
+  background-color: grey;
+  margin-top: 7.9%;
+  height: -20px;
+  
+  height: 60px;
+
+  
+}
+
+.principal{
+  background-image: url('https://res.cloudinary.com/di5oqdvwa/image/upload/v1668158568/imagenes/bb48389d8e433aaa20a80378de1841eb_bosxed.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+  margin-left: -0.45%;
+  height: -20px;
+  width: 153.1%;
+} */

@@ -1,0 +1,58 @@
+.telefonos{
+    color: white;
+  }
+  
+  .nav{
+    background: purple;
+    margin-left: -2.7%;
+    margin-top: -2.5%;
+    height: -20px;
+    width: 2005px;
+    
+  }
+  
+  .nav ul{
+    color: white;
+    font-size: 35px;
+    line-height: 80px; 
+    padding: 0 100px;
+    font-weight: bold;
+  }
+  
+  .telefonos{
+    margin-left: -2.5%;
+  }
+  
+  .logoTelefono{
+    max-width: 300px;
+    min-width: 300px;
+    margin-top: 5%;
+    margin-left: 3%;
+  }
+  .description{
+    color: white;
+    margin-left: 2%;
+  }
+  
+  .footer{
+    background-color: grey;
+    margin-top: 18%;
+    height: -20px;
+    height: 100px;
+    width: 1960.9px;
+    
+  }
+  
+  .principal{
+    background-image: url('https://res.cloudinary.com/di5oqdvwa/image/upload/v1668158291/imagenes/nJywwow_ozr4kl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    margin-left: -0.45%;
+    margin-top: -2.5%;
+    width: 1960.9px;
+    
+  }
+
+  
